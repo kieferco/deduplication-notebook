@@ -1,0 +1,6 @@
+# JSON Files
+*.json
+!example_hash_table_file.json
+
+# Notebook Checkpoints
+.ipynb_checkpoints
