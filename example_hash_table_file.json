@@ -1,0 +1,63 @@
+{
+    "46ff835d6ea125ada315487402d2ac0b50": {
+        "created": 1672725439.886875,
+        "md5": "46ff835d6ea125ada315487402d2ac0b",
+        "names": [
+            "There are three of me with the same contents.txt"
+        ],
+        "paths": [
+            "\\Alpha\\There are three of me with the same contents.txt",
+            "\\There are three of me with the same contents.txt",
+            "\\Bravo\\There are three of me with the same contents.txt"
+        ],
+        "size": "50"
+    },
+    "7012acbb1d394b20567dffbf0992b67714": {
+        "created": 1672725681.790937,
+        "md5": "7012acbb1d394b20567dffbf0992b677",
+        "names": [
+            "I contain hello world.txt",
+            "I also contain hello world.txt",
+            "I am the third hello world.txt"
+        ],
+        "paths": [
+            "\\I contain hello world.txt",
+            "\\Alpha\\I also contain hello world.txt",
+            "\\Bravo\\Charlie\\I am the third hello world.txt"
+        ],
+        "size": "14"
+    },
+    "956e325fdbfd27759281590bc08315e0447": {
+        "created": 1672725529.8594403,
+        "md5": "956e325fdbfd27759281590bc08315e0",
+        "names": [
+            "There are two of me with different contents.txt"
+        ],
+        "paths": [
+            "\\There are two of me with different contents.txt"
+        ],
+        "size": "447"
+    },
+    "aed907cf2629522d45110b4c14f5bec945": {
+        "created": 1672725727.4143217,
+        "md5": "aed907cf2629522d45110b4c14f5bec9",
+        "names": [
+            "I am alone.txt"
+        ],
+        "paths": [
+            "\\Bravo\\I am alone.txt"
+        ],
+        "size": "45"
+    },
+    "e4d453ff7cc20d47ea0a808aa80488c6287": {
+        "created": 1672725614.4772577,
+        "md5": "e4d453ff7cc20d47ea0a808aa80488c6",
+        "names": [
+            "There are two of me with different contents.txt"
+        ],
+        "paths": [
+            "\\Bravo\\Charlie\\There are two of me with different contents.txt"
+        ],
+        "size": "287"
+    }
+}
