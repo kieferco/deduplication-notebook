@@ -17,3 +17,13 @@ To launch Jupyter Notebook, run in this repo's directory:
 ```bash
 jupyter notebook
 ```
+
+## Using the Notebook
+
+Once Jupyter notebook is open in your browser, navigate to the notebook and follow the relevant steps in the first cell.
+
+In most cases, you'll want to follow the steps for **Deduplicating a Directory**.
+
+Try it out with the test directory in this repo and take a look at the contents of the hash table file!
+
+![Sample Output](Media/Example_Output.png "Sample Output")
